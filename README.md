@@ -3,13 +3,13 @@ website: "Site Institucional do Município de São Pedro do Sul "          # Ent
 date: "20/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-spsul.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-spsul.pt/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "Município de São Pedro do Sul "         # Entre as aspas escrever o nome do owner do website
+owner: "Município de São Pedro do Sul"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Relatório de auditoria
+# Site Institucional do Município de São Pedro do Sul
 
 Sítio Web: {{ page.website }}
 
@@ -20,16 +20,16 @@ Sítio Web: {{ page.website }}
 - Validade do selo: {{ page.validity }}
 - Estado: {{ page.status }}
 
-## Relatório {{ page.website }}
+## Relatório de auditoria
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
-Consulte aqui a última atualização: [Relatório {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório Município de São Pedro do Sul](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="20072026_report.html">(20/07/2026). Relatório {{ page.website }}</a></li>
+    <li><a href="04082026_report.html">(04/08/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
