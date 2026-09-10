@@ -5,20 +5,18 @@ uri: "https://www.cm-spsul.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-spsul.pt/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Município de São Pedro do Sul"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "10-09-2026 a 10-09-2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Site Institucional do Município de São Pedro do Sul
+# Site Institucional do Município de São Pedro do Sul (Sítio Web)
 
-Sítio Web: {{ page.website }}
-
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
-- Validade do selo: {{ page.validity }}
-- Estado: {{ page.status }}
+- Data de criação: 20/07/2026
+- URL: https://www.cm-spsul.pt/
+- Propriedade: Município de São Pedro do Sul
+- Candidatura: Ouro
+- Validade do selo: 10-09-2026 a 10-09-2027
+- Estado: Concluído
 
 ## Relatório de auditoria
 
@@ -29,7 +27,7 @@ Consulte aqui a última atualização: [Relatório Município de São Pedro do S
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="04082026_report.html">(04/08/2026). Relatório {{ page.website }}</a></li>
+    <li><a href="10092026_report.html">(10/09/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
