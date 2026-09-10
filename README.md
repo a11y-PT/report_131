@@ -22,12 +22,12 @@ status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Audit
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
-Consulte aqui a última atualização: [Relatório Município de São Pedro do Sul](report.html)
+Consulte aqui a última atualização: [Relatório Site Institucional do Município de São Pedro do Sul](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="10092026_report.html">(10/09/2026). Relatório {{ page.website }}</a></li>
+    <li><a href="10092026_report.html">(10/09/2026). Relatório Site Institucional do Município de São Pedro do Sul</a></li>
   </ul>
 </details>
 
